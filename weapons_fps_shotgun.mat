@@ -1,0 +1,16 @@
+// Leadwerks Material File
+
+blendmode=0
+castshadows=1
+zsort=0
+cullbackfaces=1
+depthtest=1
+depthmask=1
+diffuse=0.588235,0.588235,0.588235,1.000000
+alwaysuseshader=0
+drawmode=-1
+
+shader="Shaders/Model/Animated/diffuse.shader"
+shader1="Shaders/Model/Shadow/shadow+animation.shader"
+texture0="./Weapons_FPS_Shotgun.tex"
+texture1="./Weapons_FPS_Shotgun_nmap.tex"

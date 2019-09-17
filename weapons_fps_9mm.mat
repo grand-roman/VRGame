@@ -1,0 +1,19 @@
+//Leadwerks Material File
+
+blendmode=0
+castshadows=1
+zsort=0
+cullbackfaces=1
+depthtest=1
+depthmask=1
+diffuse=0.588235319,0.588235319,0.588235319,1.00000000
+specular=0.501960814,0.501960814,0.501960814,0.501960814
+alwaysuseshader=0
+mappingscale=1.00000000,1.00000000,1.00000000
+drawmode=-1
+
+shader="shaders/model/animated/diffuse.shader"
+shader1="Shaders/Model/Shadow/shadow+animation.shader"
+texture0="./weapons_fps_9mm.tex"
+texture1="./weapons_fps_9mm_nmap.tex"
+texture2="./weapons_fps_9mm_spec.tex"

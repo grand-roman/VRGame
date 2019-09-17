@@ -1,0 +1,14 @@
+// Leadwerks Material File
+
+blendmode=0
+castshadows=1
+zsort=0
+cullbackfaces=1
+depthtest=1
+depthmask=1
+diffuse=0.800000,0.800000,0.800000,1.000000
+alwaysuseshader=0
+drawmode=-1
+
+shader="Shaders/Model/diffuse.shader"
+texture0="./_640px-Boeing_747_svg.bmp.tex"
